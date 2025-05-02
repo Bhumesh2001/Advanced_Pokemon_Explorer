@@ -50,7 +50,7 @@ src/
 
 ```bash
 # Clone the repo
-https://github.com/your-username/pokemon-explorer.git
+https://github.com/Bhumesh2001/Advanced_Pokemon_Explorer
 cd pokemon-explorer
 
 # Install dependencies
